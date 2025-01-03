@@ -2,7 +2,7 @@
 
 <div>
     <p align="justify">
-        welcome to my github page. i'm exebyte. i'm junior c++ dev, my hobby is reverse engineering games and making cheats, but i'm also just making code for practice which i post here on my github.
+        welcome to my github page. i'm exebyte. i'm beginner c++ dev, my hobby is reverse engineering games and making cheats, but i'm also just making code for practice which i post here on my github.
     </p>
 </div>
 
